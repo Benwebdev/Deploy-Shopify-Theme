@@ -1,1 +1,1 @@
-# Deploy-Shopify-Theme
+# Deploy Shopify Theme
